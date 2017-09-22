@@ -9,6 +9,7 @@ class List extends Component {
 
     super(props);
 
+
     this.state = {
       list : [
         {"name":"Stork, white-necked","number":"964-750-1864","avatar":"https://robohash.org/numquamdolorelaboriosam.bmp?size=50x50&set=set1","id":"b0572828-dfb1-4f68-8c50-6c6ebd2a9379"},
