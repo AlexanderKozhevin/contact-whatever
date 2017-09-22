@@ -8,3 +8,6 @@
   align-items: center;
   cursor: pointer;
 }
+.avatar{
+  width: 70px;
+}
